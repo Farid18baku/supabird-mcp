@@ -1,7 +1,7 @@
 {
   "name": "supabird",
   "version": "1.0.0",
-  "description": "SupaBird for Gemini CLI: find viral X content, write in your style, and schedule posts to X, Threads, LinkedIn and Bluesky.",
+  "description": "SupaBird, your social media growth agent, in Gemini CLI: find viral content, write in your voice and schedule posts across all major social platforms.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
     "supabird": {

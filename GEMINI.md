@@ -1,6 +1,6 @@
 # SupaBird
 
-You have the SupaBird MCP server. It acts on the user's own SupaBird account (one X account, plus Threads, LinkedIn and Bluesky as cross-post targets).
+You have the SupaBird MCP server. SupaBird is the user's social media growth agent. It acts on their own SupaBird account and the social accounts they connected in SupaBird.
 
 - The first call opens a SupaBird OAuth sign-in. If tools return an auth error, tell the user to run `/mcp auth supabird`.
 - Before scheduling, check the user's connected socials and posting slots, then schedule into a slot unless the user gives a time.
