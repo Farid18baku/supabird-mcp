@@ -1,0 +1,1 @@
+{"name": "supabird", "owner": {"name": "SupaBird", "email": "farid@supabird.io"}, "metadata": {"description": "Official SupaBird plugin for Claude Code"}, "plugins": [{"name": "supabird", "source": "./", "description": "Social media growth agent: ideas, posts, scheduling and analytics across all major platforms", "category": "productivity"}]}
